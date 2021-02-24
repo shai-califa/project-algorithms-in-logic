@@ -11,4 +11,6 @@ analyze
 
 Decide
 
+bumpQScore
+
 For forther explainations see attached report.
