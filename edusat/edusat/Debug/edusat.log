@@ -1,0 +1,4 @@
+﻿  edusat.cpp
+C:\Users\calif\Documents\edusat\edusat\edusat.cpp(148,20): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\calif\Documents\edusat\edusat\edusat.cpp(618,22): warning C4018: '<': signed/unsigned mismatch
+  edusat.vcxproj -> C:\Users\calif\Documents\edusat\Debug\edusat.exe
