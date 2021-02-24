@@ -13,4 +13,6 @@ Decide
 
 bumpQScore
 
+reset_iterators_Q
+
 For forther explainations see attached report.
